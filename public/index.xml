@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to The Egg-celent Cafe on The Egg-celent Cafe</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to The Egg-celent Cafe on The Egg-celent Cafe</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;The Egg-celent Cafe is a local gem serving delicious meals made with fresh, high-quality ingredients. From hearty breakfasts to satisfying lunches, we’re here to make your day egg-celent!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Us</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;We’d love to hear from you!&lt;br&gt;&#xA;📍 123 Breakfast Lane, Sunnyside City, USA&lt;br&gt;&#xA;📞 +1 (555) 123-4567&lt;br&gt;&#xA;📧 &lt;a href=&#34;mailto:contact@eggcelentcafe.com&#34;&gt;contact@eggcelentcafe.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our Menu</title>
+      <link>http://localhost:1313/menu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/menu/</guid>
+      <description>&lt;h2 id=&#34;breakfast-specialties&#34;&gt;Breakfast Specialties&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/breakfast_sammy.jpg&#34; alt=&#34;Classic Egg Breakfast&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Classic Egg Breakfast&lt;/strong&gt; – $9.99&lt;br&gt;&#xA;Two eggs, toast, and your choice of bacon or sausage.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Avocado Toast&lt;/strong&gt; – $8.99&lt;br&gt;&#xA;Topped with poached eggs and chili flakes.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;lunch-favorites&#34;&gt;Lunch Favorites&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Egg-celent Burger&lt;/strong&gt; – $13.99&lt;br&gt;&#xA;Juicy beef patty with a sunny-side-up egg, lettuce, and tomato.&#xA;&lt;img src=&#34;images/lunch.jpg&#34; alt=&#34;Egg-celent Burger&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Grilled Chicken Salad&lt;/strong&gt; – $12.99&lt;br&gt;&#xA;Fresh greens with marinated chicken and balsamic dressing.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;drinks&#34;&gt;Drinks&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/coffee.jpg&#34; alt=&#34;Freshly Brewed Coffee&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Freshly Brewed Coffee&lt;/strong&gt; – $2.99&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Iced Latte&lt;/strong&gt; – $4.50&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
